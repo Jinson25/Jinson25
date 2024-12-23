@@ -1,16 +1,34 @@
 ## Hi there 👋
 
-<!--
-**Jinson25/Jinson25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm **Jinson Medina**, a passionate software developer currently pursuing a degree in Technology in Software Development at the Instituto Superior Tecnológico de Turismo y Patrimonio Yavirac.
 
-Here are some ideas to get you started:
+### 🔧 About Me
+- 🔄 Always learning and growing in the field of software development.
+- 💡 Enthusiastic about building impactful projects and exploring innovative solutions.
+- 🔍 Interested in front-end and back-end development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✨ Skills
+- **Programming Languages:** JavaScript, Python, SQL
+- **Frameworks & Libraries:** Angular, Node.js, Express.js
+- **Tools:** Git, VS Code, Firebase, Figma
+- **Methodologies:** Scrum, MVC
+
+### 🎩 Projects
+- **Inventory Management System:** Developed with Angular and Node.js, integrating Firebase for authentication and data storage.
+- **Automation Bot:** Created a Python bot to optimize administrative tasks, reducing operational times significantly.
+
+### 🌐 Languages
+- **Spanish:** Native
+- **English:** Intermediate (technical reading and basic conversation)
+
+### 📢 Let's Connect!
+- ✉ Email: [jinsonalejandro@gmail.com](mailto:jinsonalejandro@gmail.com)
+- 📞 Phone: +593 99 7752 987
+- 🔗 LinkedIn: [linkedin.com/in/jinson-medina](#)
+
+Thanks for visiting my profile! Feel free to explore my repositories or reach out to discuss collaboration opportunities.
+
+---
+
+_"Technology is best when it brings people together."_ — Matt Mullenweg
+
