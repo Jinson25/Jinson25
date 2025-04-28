@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm **Jinson Medina**, a passionate software devel
 ### ✨ Skills
 - **Programming Languages:** JavaScript, Python, SQL
 - **Frameworks & Libraries:** Angular, Node.js, Express.js
-- **Tools:** Git, VS Code, Firebase, Figma
+- **Tools:** Git, VS Code, Figma
 - **Methodologies:** Scrum, MVC
 
 ### 🎩 Projects
