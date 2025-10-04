@@ -29,6 +29,11 @@ Welcome to my GitHub profile! I'm **Jinson Medina**, a passionate software devel
 
 Thanks for visiting my profile! Feel free to explore my repositories or reach out to discuss collaboration opportunities.
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Jinson25&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Jinson25&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinson25&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ---
 
 _"Technology is best when it brings people together."_ — Matt Mullenweg
