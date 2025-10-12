@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+     
 Welcome to my GitHub profile! I'm **Jinson Medina**, a passionate software developer currently pursuing a degree in Technology in Software Development at the Instituto Superior Tecnológico de Turismo y Patrimonio Yavirac.
 
 
